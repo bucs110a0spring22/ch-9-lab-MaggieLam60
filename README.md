@@ -7,18 +7,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ < creating two classes i.e. square and rectangles. WE will be controlling the appearance and the location of these classes >
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 1 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 4 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < none >
 
 ## REFERENCES:
- < List any outside resources used >
+ < none >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ <none>
